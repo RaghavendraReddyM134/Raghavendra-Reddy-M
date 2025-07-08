@@ -1,6 +1,3 @@
-# Raghavendra Reddy M
-About Me
-
 <h1 align="center">Hi 👋,I'm Raghavendra Reddy M</h1>
 <h3 align="center">MERN Stack Developer | DevOps Enthusiast | Automation Tester (Cucumber) | Open Source Contributor</h3>
 
